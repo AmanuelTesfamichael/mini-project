@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: ShoppingCartCommandService
+  cloud:
+    config:
+      uri: http://localhost:8081
